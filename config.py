@@ -17,8 +17,9 @@ class _Config:
   
     def init_handler(self, m):
         init_method = {
-            'tsdf-camrest':self._camrest_tsdf_init,
-            'tsdf-kvret':self._kvret_tsdf_init
+            'tsdf-camrest': self._camrest_tsdf_init,
+            'tsdf-kvret': self._kvret_tsdf_init,
+            'tsdf-OD': self._od_tsdf_init
         }
         init_method[m]()
 
@@ -50,6 +51,43 @@ class _Config:
         self.new_vocab = True
         self.model_path = './models/camrest.pkl'
         self.result_path = './results/camrest-rl.csv'
+        self.teacher_force = 100
+        self.beam_search = False
+        self.beam_size = 10
+        self.sampling = False
+        self.unfrz_attn_epoch = 0
+        self.skip_unsup = False
+        self.truncated = False
+        self.pretrain = False
+
+    def _od_tsdf_init(self):
+        self.beam_len_bonus = 0.5
+        self.prev_z_method = 'separate'
+        self.vocab_size = 800
+        self.embedding_size = 50
+        self.hidden_size = 50
+        self.split = (3, 1, 1)
+        self.lr = 0.003
+        self.lr_decay = 0.5
+        self.vocab_path = './vocab/vocab-od.pkl'
+        self.data = './data/OD/dialogues.json'
+        self.entity = './data/OD/entities.json'
+        self.db = './data/OD/DB.json'
+        self.glove_path = './data/glove/glove.6B.50d.txt'
+        self.batch_size = 32
+        self.z_length = 8
+        self.degree_size = 5
+        self.layer_num = 1
+        self.dropout_rate = 0.5
+        self.epoch_num = 100 # triggered by early stop
+        self.rl_epoch_num = 2
+        self.cuda = False
+        self.spv_proportion = 100
+        self.max_ts = 40
+        self.early_stop_count = 3
+        self.new_vocab = True
+        self.model_path = './models/od.pkl'
+        self.result_path = './results/od.csv'
         self.teacher_force = 100
         self.beam_search = False
         self.beam_size = 10

@@ -1,0 +1,27 @@
+[
+  {
+    "dial": [
+      {
+        "turn": 0,
+        "usr": {
+          "transcript": "was gibt's über hunden",
+          "slu": [
+            {
+              "act": "inform",
+              "slots": [
+                [
+                  "keyword",
+                   "hunden"
+                ]
+              ]
+            },
+          ]
+        },
+        "sys": {
+          "sent": "Hunde pro Bezirk Wien"
+        }
+      }
+    ],
+    "dialogue_id": 675,
+  }
+]

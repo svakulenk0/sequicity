@@ -18,6 +18,7 @@ class Model:
     def __init__(self, dataset):
         reader_dict = {
             'camrest': CamRest676Reader,
+            'OD': CamRest676Reader,
             'kvret': KvretReader,
         }
         model_dict = {
@@ -25,22 +26,23 @@ class Model:
         }
         evaluator_dict = {
             'camrest': CamRestEvaluator,
+            'OD': CamRestEvaluator,
             'kvret': KvretEvaluator,
         }
         self.reader = reader_dict[dataset]()
         self.m = model_dict[cfg.m](embed_size=cfg.embedding_size,
-                               hidden_size=cfg.hidden_size,
-                               vocab_size=cfg.vocab_size,
-                               layer_num=cfg.layer_num,
-                               dropout_rate=cfg.dropout_rate,
-                               z_length=cfg.z_length,
-                               max_ts=cfg.max_ts,
-                               beam_search=cfg.beam_search,
-                               beam_size=cfg.beam_size,
-                               eos_token_idx=self.reader.vocab.encode('EOS_M'),
-                               vocab=self.reader.vocab,
-                               teacher_force=cfg.teacher_force,
-                               degree_size=cfg.degree_size)
+                                   hidden_size=cfg.hidden_size,
+                                   vocab_size=cfg.vocab_size,
+                                   layer_num=cfg.layer_num,
+                                   dropout_rate=cfg.dropout_rate,
+                                   z_length=cfg.z_length,
+                                   max_ts=cfg.max_ts,
+                                   beam_search=cfg.beam_search,
+                                   beam_size=cfg.beam_size,
+                                   eos_token_idx=self.reader.vocab.encode('EOS_M'),
+                                   vocab=self.reader.vocab,
+                                   teacher_force=cfg.teacher_force,
+                                   degree_size=cfg.degree_size)
         self.EV = evaluator_dict[dataset] # evaluator class
         if cfg.cuda: self.m = self.m.cuda()
         self.base_epoch = -1
@@ -93,7 +95,7 @@ class Model:
 
         kw_ret['z_input_np'] = z_input_np
 
-        return u_input, u_input_np, z_input, m_input, m_input_np,u_len, m_len,  \
+        return u_input, u_input_np, z_input, m_input, m_input_np, u_len, m_len,  \
                degree_input, kw_ret
 
     def train(self):
@@ -122,12 +124,12 @@ class Model:
                         = self._convert_batch(turn_batch, prev_z)
 
                     loss, pr_loss, m_loss, turn_states = self.m(u_input=u_input, z_input=z_input,
-                                                                        m_input=m_input,
-                                                                        degree_input=degree_input,
-                                                                        u_input_np=u_input_np,
-                                                                        m_input_np=m_input_np,
-                                                                        turn_states=turn_states,
-                                                                        u_len=u_len, m_len=m_len, mode='train', **kw_ret)
+                                                                m_input=m_input,
+                                                                degree_input=degree_input,
+                                                                u_input_np=u_input_np,
+                                                                m_input_np=m_input_np,
+                                                                turn_states=turn_states,
+                                                                u_len=u_len, m_len=m_len, mode='train', **kw_ret)
                     loss.backward(retain_graph=turn_num != len(dial_batch) - 1)
                     grad = torch.nn.utils.clip_grad_norm(self.m.parameters(), 5.0)
                     optim.step()
@@ -198,11 +200,11 @@ class Model:
                     = self._convert_batch(turn_batch)
 
                 loss, pr_loss, m_loss, turn_states = self.m(u_input=u_input, z_input=z_input,
-                                                                    m_input=m_input,
-                                                                    turn_states=turn_states,
-                                                                    degree_input=degree_input,
-                                                                    u_input_np=u_input_np, m_input_np=m_input_np,
-                                                                    u_len=u_len, m_len=m_len, mode='train',**kw_ret)
+                                                            m_input=m_input,
+                                                            turn_states=turn_states,
+                                                            degree_input=degree_input,
+                                                            u_input_np=u_input_np, m_input_np=m_input_np,
+                                                            u_len=u_len, m_len=m_len, mode='train',**kw_ret)
                 sup_loss += loss.data[0]
                 sup_cnt += 1
                 logging.debug(
@@ -234,12 +236,12 @@ class Model:
                     m_len, degree_input, kw_ret \
                         = self._convert_batch(turn_batch, prev_z)
                     loss_rl = self.m(u_input=u_input, z_input=z_input,
-                                m_input=m_input,
-                                degree_input=degree_input,
-                                u_input_np=u_input_np,
-                                m_input_np=m_input_np,
-                                turn_states=turn_states,
-                                u_len=u_len, m_len=m_len, mode=mode, **kw_ret)
+                                    m_input=m_input,
+                                    degree_input=degree_input,
+                                    u_input_np=u_input_np,
+                                    m_input_np=m_input_np,
+                                    turn_states=turn_states,
+                                    u_len=u_len, m_len=m_len, mode=mode, **kw_ret)
 
                     if loss_rl is not None:
                         loss = loss_rl
