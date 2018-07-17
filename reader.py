@@ -496,6 +496,7 @@ class ODReader(_ReaderBase):
                 })
                 if construct_vocab:
                     for word in user + response + constraint + requested:
+                        print(word)
                         self.vocab.add_item(word)
             tokenized_data.append(tokenized_dial)
         return tokenized_data
