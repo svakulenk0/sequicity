@@ -3,7 +3,7 @@ import random
 import numpy as np
 from config import global_config as cfg
 from reader import CamRest676Reader, get_glove_matrix
-from reader import KvretReader
+from reader import KvretReader, ODReader
 from tsd_net import TSD, cuda_, nan
 from torch.optim import Adam
 from torch.autograd import Variable
