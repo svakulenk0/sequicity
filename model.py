@@ -18,7 +18,7 @@ class Model:
     def __init__(self, dataset):
         reader_dict = {
             'camrest': CamRest676Reader,
-            'OD': CamRest676Reader,
+            'OD': ODReader,
             'kvret': KvretReader,
         }
         model_dict = {
