@@ -962,7 +962,6 @@ def get_glove_matrix(vocab, initial_embedding_np):
         line = line.strip().split(' ')
         word, vec = line[0], line[1:]
         vec = np.array(vec, np.float32)
-        print (word)
         word_idx = vocab.encode(word)
         if word.lower() in ['unk', '<unk>'] or word_idx != vocab.encode('<unk>'):
             cnt += 1

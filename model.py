@@ -10,7 +10,7 @@ from torch.autograd import Variable
 from reader import pad_sequences
 import argparse, time
 
-from metric import CamRestEvaluator, KvretEvaluator
+from metric import CamRestEvaluator, KvretEvaluator, ODEvaluator
 import logging
 
 
@@ -26,7 +26,7 @@ class Model:
         }
         evaluator_dict = {
             'camrest': CamRestEvaluator,
-            'OD': CamRestEvaluator,
+            'OD': ODEvaluator,
             'kvret': KvretEvaluator,
         }
         self.reader = reader_dict[dataset]()
