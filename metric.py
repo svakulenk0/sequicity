@@ -258,6 +258,8 @@ class CamRestEvaluator(GenericEvaluator):
             for turn_num,turn in enumerate(dial):
                 if 'SLOT' in turn['generated_response']:
                     print (turn)
+                    print (turn['generated_bpsan'])
+                    print (turn['bspan'])
                     gen_bpsan = turn['generated_bpsan']
                     gen_cons = self._extract_constraint(gen_bpsan)
                 if 'SLOT' in turn['response']:
