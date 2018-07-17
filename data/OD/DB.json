@@ -4,5 +4,15 @@
         "dataset_name": "Hunde pro Bezirk Wien",
         "keyword": "hunden",
         "dataset_link": "https://www.wien.gv.at/finanzen/ogd/hunde-wien.csv"
+    },
+    {
+        "dataset_name": "Wiener Linien Routingservice Wien",
+        "keyword": "wien",
+        "dataset_link": "https://data.wien.gv.at/csv/wienerlinien-ogd-haltestellen.csv"
+    },
+    {
+        "dataset_name": "Arbeitslose in Linz",
+        "keyword": "linz",
+        "dataset_link": "http://data.linz.gv.at/katalog/wirtschaft/arbeitslose/2004/Arbsu_2004.csv"
     }
 ]

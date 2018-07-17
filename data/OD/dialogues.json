@@ -21,7 +21,270 @@
           "sent": "Hunde pro Bezirk Wien"
         }
       }
-    ],
-    "dialogue_id": 675
+    ]
+  },
+  {
+    "dial": [
+      {
+        "turn": 0,
+        "usr": {
+          "transcript": "was gibt es über hunden",
+          "slu": [
+            {
+              "act": "inform",
+              "slots": [
+                [
+                  "keyword",
+                   "hunden"
+                ]
+              ]
+            }
+          ]
+        },
+        "sys": {
+          "sent": "Hunde pro Bezirk Wien"
+        }
+      }
+    ]
+  },
+  {
+    "dial": [
+      {
+        "turn": 0,
+        "usr": {
+          "transcript": "gibt's etwas über hunden",
+          "slu": [
+            {
+              "act": "inform",
+              "slots": [
+                [
+                  "keyword",
+                   "hunden"
+                ]
+              ]
+            }
+          ]
+        },
+        "sys": {
+          "sent": "Hunde pro Bezirk Wien"
+        }
+      }
+    ]
+  },
+  {
+    "dial": [
+      {
+        "turn": 0,
+        "usr": {
+          "transcript": "hunden",
+          "slu": [
+            {
+              "act": "inform",
+              "slots": [
+                [
+                  "keyword",
+                   "hunden"
+                ]
+              ]
+            }
+          ]
+        },
+        "sys": {
+          "sent": "Hunde pro Bezirk Wien"
+        }
+      }
+    ]
+  },
+  {
+    "dial": [
+      {
+        "turn": 0,
+        "usr": {
+          "transcript": "was gibt's über wien",
+          "slu": [
+            {
+              "act": "inform",
+              "slots": [
+                [
+                  "keyword",
+                   "wien"
+                ]
+              ]
+            }
+          ]
+        },
+        "sys": {
+          "sent": "Wiener Linien Routingservice Wien"
+        }
+      }
+    ]
+  },
+  {
+    "dial": [
+      {
+        "turn": 0,
+        "usr": {
+          "transcript": "was gibt es über wien",
+          "slu": [
+            {
+              "act": "inform",
+              "slots": [
+                [
+                  "keyword",
+                   "wien"
+                ]
+              ]
+            }
+          ]
+        },
+        "sys": {
+          "sent": "Wiener Linien Routingservice Wien"
+        }
+      }
+    ]
+  },
+  {
+    "dial": [
+      {
+        "turn": 0,
+        "usr": {
+          "transcript": "gibt's etwas über wien",
+          "slu": [
+            {
+              "act": "inform",
+              "slots": [
+                [
+                  "keyword",
+                   "wien"
+                ]
+              ]
+            }
+          ]
+        },
+        "sys": {
+          "sent": "Wiener Linien Routingservice Wien"
+        }
+      }
+    ]
+  },
+  {
+    "dial": [
+      {
+        "turn": 0,
+        "usr": {
+          "transcript": "wien",
+          "slu": [
+            {
+              "act": "inform",
+              "slots": [
+                [
+                  "keyword",
+                   "wien"
+                ]
+              ]
+            }
+          ]
+        },
+        "sys": {
+          "sent": "Wiener Linien Routingservice Wien"
+        }
+      }
+    ]
+  },
+  {
+    "dial": [
+      {
+        "turn": 0,
+        "usr": {
+          "transcript": "was gibt's über linz",
+          "slu": [
+            {
+              "act": "inform",
+              "slots": [
+                [
+                  "keyword",
+                   "linz"
+                ]
+              ]
+            }
+          ]
+        },
+        "sys": {
+          "sent": "Arbeitslose in Linz"
+        }
+      }
+    ]
+  },
+  {
+    "dial": [
+      {
+        "turn": 0,
+        "usr": {
+          "transcript": "was gibt es über linz",
+          "slu": [
+            {
+              "act": "inform",
+              "slots": [
+                [
+                  "keyword",
+                   "linz"
+                ]
+              ]
+            }
+          ]
+        },
+        "sys": {
+          "sent": "Arbeitslose in Linz"
+        }
+      }
+    ]
+  },
+  {
+    "dial": [
+      {
+        "turn": 0,
+        "usr": {
+          "transcript": "gibt's etwas über linz",
+          "slu": [
+            {
+              "act": "inform",
+              "slots": [
+                [
+                  "keyword",
+                   "linz"
+                ]
+              ]
+            }
+          ]
+        },
+        "sys": {
+          "sent": "Arbeitslose in Linz"
+        }
+      }
+    ]
+  },
+  {
+    "dial": [
+      {
+        "turn": 0,
+        "usr": {
+          "transcript": "linz",
+          "slu": [
+            {
+              "act": "inform",
+              "slots": [
+                [
+                  "keyword",
+                   "linz"
+                ]
+              ]
+            }
+          ]
+        },
+        "sys": {
+          "sent": "Arbeitslose in Linz"
+        }
+      }
+    ]
   }
 ]
