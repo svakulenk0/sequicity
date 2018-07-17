@@ -51,4 +51,20 @@ mkdir models
 mkdir sheets
 ```
 
-3. Download pretrained Glove word vectors and place them in PROJECT_ROOT/data/glove.
+3. Download pretrained Glove word vectors.
+```
+mkdir data/glove
+cd data/glove
+wget http://nlp.stanford.edu/data/glove.6B.zip
+unzip glove.6B.zip
+```
+
+4. Download NLTK stopwords
+
+In a Python console:
+```
+>>> import nltk
+>>> nltk.download()
+Downloader> d
+Identifier> stopwords
+```
