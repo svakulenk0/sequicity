@@ -301,6 +301,7 @@ class Model:
 
     def load_glove_embedding(self, freeze=False):
         initial_arr = self.m.u_encoder.embedding.weight.data.cpu().numpy()
+        print(self.reader.vocab)
         embedding_arr = torch.from_numpy(get_glove_matrix(self.reader.vocab, initial_arr))
 
         self.m.u_encoder.embedding.weight.data.copy_(embedding_arr)
