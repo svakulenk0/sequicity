@@ -12,6 +12,7 @@ import copy, random, time, logging
 from torch.distributions import Categorical
 from reader import pad_sequences
 
+
 def cuda_(var):
     return var.cuda() if cfg.cuda else var
 
@@ -24,6 +25,7 @@ def nan(v):
     if type(v) is float:
         return v == float('nan')
     return np.isnan(np.sum(v.data.cpu().numpy()))
+
 
 def get_sparse_input_aug(x_input_np):
     """
@@ -48,11 +50,13 @@ def get_sparse_input_aug(x_input_np):
     result = torch.from_numpy(result_np).float()
     return result
 
+
 def init_gru(gru):
     gru.reset_parameters()
     for _, hh, _, _ in gru.all_weights:
         for i in range(0, hh.size(0), gru.hidden_size):
             torch.nn.init.orthogonal(hh[i:i+gru.hidden_size],gain=1)
+
 
 class Attn(nn.Module):
     def __init__(self, hidden_size):
@@ -78,6 +82,7 @@ class Attn(nn.Module):
         v = self.v.repeat(encoder_outputs.size(0), 1).unsqueeze(1)  # [B,1,H]
         energy = torch.bmm(v, energy)  # [B,1,T]
         return energy
+
 
 class SimpleDynamicEncoder(nn.Module):
     def __init__(self, input_size, embed_size, hidden_size, n_layers, dropout):
@@ -270,8 +275,18 @@ class TSD(nn.Module):
             self.beam_size = kwargs['beam_size']
             self.eos_token_idx = kwargs['eos_token_idx']
 
-    def forward(self, u_input, u_input_np, m_input, m_input_np, z_input, u_len, m_len, turn_states,
-                degree_input, mode, **kwargs):
+    def forward(self, u_input, u_input_np, u_len, mode, degree_input=None,
+                m_input=None, m_input_np=None, z_input=None, m_len=None, turn_states=None, **kwargs):
+        """
+        :param u_input_np:
+        :param m_input_np:
+        :param u_len:
+        :param turn_states:
+        :param u_input: [T,B]
+        :param m_input: [T,B]
+        :param z_input: [T,B]
+        :return:
+        """
         if mode == 'train' or mode == 'valid':
             pz_proba, pm_dec_proba, turn_states = \
                 self.forward_turn(u_input, u_len, m_input=m_input, m_len=m_len, z_input=z_input, mode='train',
@@ -298,7 +313,7 @@ class TSD(nn.Module):
                                      )
             return loss
 
-    def forward_turn(self, u_input, u_len, turn_states, mode, degree_input, u_input_np, m_input_np=None,
+    def forward_turn(self, u_input, u_len, mode, u_input_np, degree_input=None, turn_states=None, m_input_np=None,
                      m_input=None, m_len=None, z_input=None, **kwargs):
         """
         compute required outputs for a single dialogue turn. Turn state{Dict} will be updated in each call.
@@ -306,7 +321,6 @@ class TSD(nn.Module):
         :param m_input_np:
         :param u_len:
         :param turn_states:
-        :param is_train:
         :param u_input: [T,B]
         :param m_input: [T,B]
         :param z_input: [T,B]
@@ -325,6 +339,7 @@ class TSD(nn.Module):
         last_hidden = u_enc_hidden[:-1]
         z_tm1 = cuda_(Variable(torch.ones(1, batch_size).long() * 3))  # GO_2 token
         m_tm1 = cuda_(Variable(torch.ones(1, batch_size).long()))  # GO token
+
         if mode == 'train':
             pz_dec_outs = []
             pz_proba = []
@@ -371,10 +386,15 @@ class TSD(nn.Module):
             pm_dec_proba = torch.stack(pm_dec_proba, dim=0)  # [T,B,V]
             return pz_proba, pm_dec_proba, None
         else:
-            pz_dec_outs, bspan_index,last_hidden = self.bspan_decoder(u_enc_out, z_tm1, last_hidden, u_input_np,
+            # get bspan
+            pz_dec_outs, bspan_index, last_hidden = self.bspan_decoder(u_enc_out, z_tm1, last_hidden, u_input_np,
                                                           pv_z_enc_out=pv_z_enc_out, prev_z_input_np=prev_z_input_np,
                                                           u_emb=u_emb, pv_z_emb=pv_z_emb)
             pz_dec_outs = torch.cat(pz_dec_outs, dim=0)
+
+            # retrieve data from DB using bspan_index
+            # if not degree_input:
+            #     degree_input = 
 
             if mode == 'test':
                 if not self.beam_search:

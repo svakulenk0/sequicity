@@ -16,7 +16,7 @@ Architectures" by Wenqiang Lei et al.
 ## Training with default parameters
 
 ```
-python model.py -mode train -model [tsdf-camrest|tsdf-kvret]
+python3 model.py -mode train -model tsdf-OD
 ```
 
 (optional: configuring hyperparameters with cmdline)
@@ -28,13 +28,19 @@ python model.py -mode train -model [tsdf-camrest|tsdf-kvret] -config lr=0.003 ba
 ## Testing
 
 ```
-python model.py -mode test -model [tsdf-camrest|tsdf-kvret]
+python3 model.py -mode test -model tsdf-OD
 ```
 
 ## Reinforcement fine-tuning
 
 ```
-python model.py -mode train -mode [tsdf-camrest|tsdf-kvret] -config lr=0.0001
+python3 model.py -mode rl -model tsdf-camrest
+```
+
+## Inference
+
+```
+python3 model.py -mode iteract -model tsdf-OD
 ```
 
 ## Before running

@@ -136,6 +136,13 @@ class _ReaderBase:
         self.vocab = self.Vocab()
         self.result_file = ''
 
+    def encode_sequence(self, input_text):
+        '''
+        encode input sequence
+        '''
+        tokenized_input= word_tokenize(input_text) + ['EOS_U']
+        return self.vocab.sentence_encode(tokenized_input)
+
     def _construct(self, *args):
         """
         load data, construct vocab and store them in self.train/dev/test
@@ -213,6 +220,12 @@ class _ReaderBase:
         random.shuffle(all_batches)
         for i, batch in enumerate(all_batches):
             yield self._transpose_batch(batch)
+
+    def decode_reply(self, gen_m, gen_z):
+        print (len(gen_m), len(gen_z))
+        response = self.vocab.sentence_decode(gen_m[0], eos='EOS_M')
+        bspan = self.vocab.sentence_decode(gen_z[0], eos='EOS_Z2')
+        return response, bspan
 
     def wrap_result(self, turn_batch, gen_m, gen_z, eos_syntax=None, prev_z=None):
         """

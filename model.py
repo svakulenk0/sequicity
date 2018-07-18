@@ -47,6 +47,18 @@ class Model:
         if cfg.cuda: self.m = self.m.cuda()
         self.base_epoch = -1
 
+    def _convert_input(self, encoded_input):
+        u_input_np = pad_sequences([encoded_input], cfg.max_ts, padding='post', truncating='pre').transpose((1, 0))
+        u_input = cuda_(Variable(torch.from_numpy(u_input_np).long()))
+        
+        u_len = np.array([len(encoded_input)])
+        
+        db_found = self.reader._degree_vec_mapping(1)
+        degree_input_np = np.array([db_found])
+        degree_input = cuda_(Variable(torch.from_numpy(degree_input_np).float()))
+
+        return u_input, u_input_np, u_len, degree_input
+
     def _convert_batch(self, py_batch, prev_z_py=None):
         u_input_py = py_batch['user']
         u_len_py = py_batch['u_len']
@@ -217,6 +229,21 @@ class Model:
         self.eval()
         return sup_loss, unsup_loss
 
+    def infer(self, input_text):
+        self.m.eval()
+        # encode input sequence
+        encoded_input = self.reader.encode_sequence(input_text)
+        print (encoded_input)
+        u_input, u_input_np, u_len, degree_input = self._convert_input(encoded_input)
+        # response, bspan, 
+        m_idx, z_idx, turn_states = self.m(mode='test', u_input=u_input, u_input_np=u_input_np,
+                                           u_len=u_len, degree_input=degree_input)
+
+        # decode reply
+        response, bspan = self.reader.decode_reply(m_idx, z_idx)
+        # reply = input_text
+        return response, bspan
+
     def reinforce_tune(self):
         lr = cfg.lr
         prev_min_loss, early_stop_count = 1 << 30, cfg.early_stop_count
@@ -362,6 +389,14 @@ def main():
     elif args.mode == 'rl':
         m.load_model()
         m.reinforce_tune()
+    elif args.mode == 'iteract':
+        m.load_model()
+        print("Hi! What would you like to search for?")
+        while True:
+            input_text = input().lower()
+            response, bspan = m.infer((input_text))
+            print(response)
+            # print("%s (%s)" % (response, bspan))
 
 
 if __name__ == '__main__':
