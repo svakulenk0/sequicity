@@ -395,8 +395,7 @@ def main():
         while True:
             input_text = input().lower()
             response, bspan = m.infer((input_text))
-            print(response)
-            # print("%s (%s)" % (response, bspan))
+            print("%s (%s)" % (response, bspan))
 
 
 if __name__ == '__main__':
