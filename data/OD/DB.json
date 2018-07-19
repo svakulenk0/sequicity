@@ -2,7 +2,7 @@
 [
     {
         "dataset_name": "sample",
-        "keyword1": "Wiener",
+        "keyword1": "wiener",
         "keyword2": "",
         "dataset_link": "sample"
     },
@@ -10,7 +10,7 @@
 
     {
         "dataset_name": "sample",
-        "keyword1": "Volksbefragung",
+        "keyword1": "volksbefragung",
         "keyword2": "",
         "dataset_link": "sample"
     },
@@ -18,7 +18,7 @@
 
     {
         "dataset_name": "sample",
-        "keyword1": "Wien",
+        "keyword1": "wien",
         "keyword2": "",
         "dataset_link": "sample"
     },
@@ -26,7 +26,7 @@
 
     {
         "dataset_name": "sample",
-        "keyword1": "Linien",
+        "keyword1": "linien",
         "keyword2": "",
         "dataset_link": "sample"
     },
@@ -34,7 +34,7 @@
 
     {
         "dataset_name": "sample",
-        "keyword1": "Routingservice",
+        "keyword1": "routingservice",
         "keyword2": "",
         "dataset_link": "sample"
     },
@@ -42,7 +42,7 @@
 
     {
         "dataset_name": "sample",
-        "keyword1": "Bezirksvertretungswahlen",
+        "keyword1": "bezirksvertretungswahlen",
         "keyword2": "",
         "dataset_link": "sample"
     },
@@ -50,7 +50,7 @@
 
     {
         "dataset_name": "sample",
-        "keyword1": "Bundespräsidentenwahlen",
+        "keyword1": "bundespräsidentenwahlen",
         "keyword2": "",
         "dataset_link": "sample"
     },
@@ -58,7 +58,7 @@
 
     {
         "dataset_name": "sample",
-        "keyword1": "Nationalratswahlen",
+        "keyword1": "nationalratswahlen",
         "keyword2": "",
         "dataset_link": "sample"
     },
@@ -154,7 +154,7 @@
 
     {
         "dataset_name": "sample",
-        "keyword1": "ViennaGIS",
+        "keyword1": "viennagis",
         "keyword2": "",
         "dataset_link": "sample"
     },
@@ -163,246 +163,6 @@
     {
         "dataset_name": "sample",
         "keyword1": "nachweise",
-        "keyword2": "",
-        "dataset_link": "sample"
-    },
-
-
-    {
-        "dataset_name": "sample",
-        "keyword1": "rechnungsabschlussverordnung",
-        "keyword2": "",
-        "dataset_link": "sample"
-    },
-
-
-    {
-        "dataset_name": "sample",
-        "keyword1": "vorbericht",
-        "keyword2": "",
-        "dataset_link": "sample"
-    },
-
-
-    {
-        "dataset_name": "sample",
-        "keyword1": "vrv",
-        "keyword2": "",
-        "dataset_link": "sample"
-    },
-
-
-    {
-        "dataset_name": "sample",
-        "keyword1": "rechnungsabschluss",
-        "keyword2": "",
-        "dataset_link": "sample"
-    },
-
-
-    {
-        "dataset_name": "sample",
-        "keyword1": "umwelt",
-        "keyword2": "",
-        "dataset_link": "sample"
-    },
-
-
-    {
-        "dataset_name": "sample",
-        "keyword1": "bevoelkerung",
-        "keyword2": "",
-        "dataset_link": "sample"
-    },
-
-
-    {
-        "dataset_name": "sample",
-        "keyword1": "planung",
-        "keyword2": "",
-        "dataset_link": "sample"
-    },
-
-
-    {
-        "dataset_name": "sample",
-        "keyword1": "technik",
-        "keyword2": "",
-        "dataset_link": "sample"
-    },
-
-
-    {
-        "dataset_name": "sample",
-        "keyword1": "politik",
-        "keyword2": "",
-        "dataset_link": "sample"
-    },
-
-
-    {
-        "dataset_name": "sample",
-        "keyword1": "anmerkungen",
-        "keyword2": "",
-        "dataset_link": "sample"
-    },
-
-
-    {
-        "dataset_name": "sample",
-        "keyword1": "durchlaufende",
-        "keyword2": "",
-        "dataset_link": "sample"
-    },
-
-
-    {
-        "dataset_name": "sample",
-        "keyword1": "gebarung",
-        "keyword2": "",
-        "dataset_link": "sample"
-    },
-
-
-    {
-        "dataset_name": "sample",
-        "keyword1": "kassenrechnung",
-        "keyword2": "",
-        "dataset_link": "sample"
-    },
-
-
-    {
-        "dataset_name": "sample",
-        "keyword1": "Bevölkerung",
-        "keyword2": "",
-        "dataset_link": "sample"
-    },
-
-
-    {
-        "dataset_name": "sample",
-        "keyword1": "graz",
-        "keyword2": "",
-        "dataset_link": "sample"
-    },
-
-
-    {
-        "dataset_name": "sample",
-        "keyword1": "steiermark",
-        "keyword2": "",
-        "dataset_link": "sample"
-    },
-
-
-    {
-        "dataset_name": "sample",
-        "keyword1": "vorarlberg",
-        "keyword2": "",
-        "dataset_link": "sample"
-    },
-
-
-    {
-        "dataset_name": "sample",
-        "keyword1": "austria",
-        "keyword2": "",
-        "dataset_link": "sample"
-    },
-
-
-    {
-        "dataset_name": "sample",
-        "keyword1": "niederoesterreich",
-        "keyword2": "",
-        "dataset_link": "sample"
-    },
-
-
-    {
-        "dataset_name": "sample",
-        "keyword1": "haushaltsrechnung",
-        "keyword2": "",
-        "dataset_link": "sample"
-    },
-
-
-    {
-        "dataset_name": "sample",
-        "keyword1": "budget",
-        "keyword2": "",
-        "dataset_link": "sample"
-    },
-
-
-    {
-        "dataset_name": "sample",
-        "keyword1": "wahlen",
-        "keyword2": "",
-        "dataset_link": "sample"
-    },
-
-
-    {
-        "dataset_name": "sample",
-        "keyword1": "voranschlag",
-        "keyword2": "",
-        "dataset_link": "sample"
-    },
-
-
-    {
-        "dataset_name": "sample",
-        "keyword1": "2016",
-        "keyword2": "",
-        "dataset_link": "sample"
-    },
-
-
-    {
-        "dataset_name": "sample",
-        "keyword1": "geographie",
-        "keyword2": "",
-        "dataset_link": "sample"
-    },
-
-
-    {
-        "dataset_name": "sample",
-        "keyword1": "geo",
-        "keyword2": "",
-        "dataset_link": "sample"
-    },
-
-
-    {
-        "dataset_name": "sample",
-        "keyword1": "geodaten",
-        "keyword2": "",
-        "dataset_link": "sample"
-    },
-
-
-    {
-        "dataset_name": "sample",
-        "keyword1": "Geschlecht",
-        "keyword2": "",
-        "dataset_link": "sample"
-    },
-
-
-    {
-        "dataset_name": "sample",
-        "keyword1": "voranschlagsverodrnung",
-        "keyword2": "",
-        "dataset_link": "sample"
-    },
-
-
-    {
-        "dataset_name": "sample",
-        "keyword1": "Akademien",
         "keyword2": "",
         "dataset_link": "sample"
     },
@@ -416,7 +176,7 @@
 
     {
         "dataset_name": "sample",
-        "keyword1": "Wasser",
+        "keyword1": "wasser",
         "keyword2": "2013",
         "dataset_link": "sample"
     },
@@ -425,14 +185,14 @@
     {
         "dataset_name": "sample",
         "keyword1": "forschung",
-        "keyword2": "Bildung",
+        "keyword2": "bildung",
         "dataset_link": "sample"
     },
 
 
     {
         "dataset_name": "sample",
-        "keyword1": "Schule",
+        "keyword1": "schule",
         "keyword2": "lehrer",
         "dataset_link": "sample"
     },
@@ -441,7 +201,7 @@
     {
         "dataset_name": "sample",
         "keyword1": "schueler",
-        "keyword2": "Kinderbetreuung",
+        "keyword2": "kinderbetreuung",
         "dataset_link": "sample"
     },
 
@@ -449,14 +209,14 @@
     {
         "dataset_name": "sample",
         "keyword1": "schulen",
-        "keyword2": "Volksschule",
+        "keyword2": "volksschule",
         "dataset_link": "sample"
     },
 
 
     {
         "dataset_name": "sample",
-        "keyword1": "OpenDocument",
+        "keyword1": "opendocument",
         "keyword2": "studierende",
         "dataset_link": "sample"
     },
@@ -465,22 +225,22 @@
     {
         "dataset_name": "sample",
         "keyword1": "hochschule",
-        "keyword2": "Buecher",
+        "keyword2": "buecher",
         "dataset_link": "sample"
     },
 
 
     {
         "dataset_name": "sample",
-        "keyword1": "Bibliotheken",
-        "keyword2": "Bibliothek",
+        "keyword1": "bibliotheken",
+        "keyword2": "bibliothek",
         "dataset_link": "sample"
     },
 
 
     {
         "dataset_name": "sample",
-        "keyword1": "Ausbildung",
+        "keyword1": "ausbildung",
         "keyword2": "uni",
         "dataset_link": "sample"
     },
@@ -488,40 +248,40 @@
 
     {
         "dataset_name": "sample",
-        "keyword1": "Wissensstadt",
-        "keyword2": "Klima",
+        "keyword1": "wissensstadt",
+        "keyword2": "klima",
         "dataset_link": "sample"
     },
 
 
     {
         "dataset_name": "sample",
-        "keyword1": "Lesen",
-        "keyword2": "Polytechnische",
+        "keyword1": "lesen",
+        "keyword2": "polytechnische",
         "dataset_link": "sample"
     },
 
 
     {
         "dataset_name": "sample",
-        "keyword1": "Universitaet",
-        "keyword2": "Aktivitaetenklassifikation",
+        "keyword1": "universitaet",
+        "keyword2": "aktivitaetenklassifikation",
         "dataset_link": "sample"
     },
 
 
     {
         "dataset_name": "sample",
-        "keyword1": "Buch",
-        "keyword2": "Universitaeten",
+        "keyword1": "buch",
+        "keyword2": "universitaeten",
         "dataset_link": "sample"
     },
 
 
     {
         "dataset_name": "sample",
-        "keyword1": "Wetter",
-        "keyword2": "ZAMG",
+        "keyword1": "wetter",
+        "keyword2": "zamg",
         "dataset_link": "sample"
     },
 
@@ -537,71 +297,191 @@
     {
         "dataset_name": "sample",
         "keyword1": "kaernten",
-        "keyword2": "Kinderkrippen",
+        "keyword2": "kinderkrippen",
         "dataset_link": "sample"
     },
 
 
     {
         "dataset_name": "sample",
-        "keyword1": "Kindergaerten",
-        "keyword2": "HTL",
+        "keyword1": "kindergaerten",
+        "keyword2": "htl",
         "dataset_link": "sample"
     },
 
 
     {
         "dataset_name": "sample",
-        "keyword1": "HBLA",
-        "keyword2": "HAK",
+        "keyword1": "hbla",
+        "keyword2": "hak",
         "dataset_link": "sample"
     },
 
 
     {
         "dataset_name": "sample",
-        "keyword1": "Fachhochschulen",
-        "keyword2": "Medien",
+        "keyword1": "fachhochschulen",
+        "keyword2": "medien",
         "dataset_link": "sample"
     },
 
 
     {
         "dataset_name": "sample",
-        "keyword1": "Meterologie",
-        "keyword2": "Mittelschule",
+        "keyword1": "meterologie",
+        "keyword2": "mittelschule",
         "dataset_link": "sample"
     },
 
 
     {
         "dataset_name": "sample",
-        "keyword1": "PTS",
-        "keyword2": "Sonderschulen",
+        "keyword1": "pts",
+        "keyword2": "sonderschulen",
         "dataset_link": "sample"
     },
 
 
     {
         "dataset_name": "sample",
-        "keyword1": "Volksschulen",
-        "keyword2": "OOE",
+        "keyword1": "volksschulen",
+        "keyword2": "ooe",
         "dataset_link": "sample"
     },
 
 
     {
         "dataset_name": "sample",
-        "keyword1": "Allgemein",
-        "keyword2": "APS",
+        "keyword1": "allgemein",
+        "keyword2": "aps",
         "dataset_link": "sample"
     },
 
 
     {
         "dataset_name": "sample",
-        "keyword1": "Wirtschaftszweigklassifikation",
+        "keyword1": "wirtschaftszweigklassifikation",
         "keyword2": "2008",
+        "dataset_link": "sample"
+    },
+
+
+    {
+        "dataset_name": "sample",
+        "keyword1": "rechnungsabschlussverordnung",
+        "keyword2": "vorbericht",
+        "dataset_link": "sample"
+    },
+
+
+    {
+        "dataset_name": "sample",
+        "keyword1": "vrv",
+        "keyword2": "rechnungsabschluss",
+        "dataset_link": "sample"
+    },
+
+
+    {
+        "dataset_name": "sample",
+        "keyword1": "umwelt",
+        "keyword2": "bevoelkerung",
+        "dataset_link": "sample"
+    },
+
+
+    {
+        "dataset_name": "sample",
+        "keyword1": "planung",
+        "keyword2": "technik",
+        "dataset_link": "sample"
+    },
+
+
+    {
+        "dataset_name": "sample",
+        "keyword1": "politik",
+        "keyword2": "anmerkungen",
+        "dataset_link": "sample"
+    },
+
+
+    {
+        "dataset_name": "sample",
+        "keyword1": "durchlaufende",
+        "keyword2": "gebarung",
+        "dataset_link": "sample"
+    },
+
+
+    {
+        "dataset_name": "sample",
+        "keyword1": "kassenrechnung",
+        "keyword2": "bevölkerung",
+        "dataset_link": "sample"
+    },
+
+
+    {
+        "dataset_name": "sample",
+        "keyword1": "graz",
+        "keyword2": "steiermark",
+        "dataset_link": "sample"
+    },
+
+
+    {
+        "dataset_name": "sample",
+        "keyword1": "vorarlberg",
+        "keyword2": "austria",
+        "dataset_link": "sample"
+    },
+
+
+    {
+        "dataset_name": "sample",
+        "keyword1": "niederoesterreich",
+        "keyword2": "haushaltsrechnung",
+        "dataset_link": "sample"
+    },
+
+
+    {
+        "dataset_name": "sample",
+        "keyword1": "budget",
+        "keyword2": "wahlen",
+        "dataset_link": "sample"
+    },
+
+
+    {
+        "dataset_name": "sample",
+        "keyword1": "voranschlag",
+        "keyword2": "2016",
+        "dataset_link": "sample"
+    },
+
+
+    {
+        "dataset_name": "sample",
+        "keyword1": "geographie",
+        "keyword2": "geo",
+        "dataset_link": "sample"
+    },
+
+
+    {
+        "dataset_name": "sample",
+        "keyword1": "geodaten",
+        "keyword2": "geschlecht",
+        "dataset_link": "sample"
+    },
+
+
+    {
+        "dataset_name": "sample",
+        "keyword1": "voranschlagsverodrnung",
+        "keyword2": "akademien",
         "dataset_link": "sample"
     }
 ]
