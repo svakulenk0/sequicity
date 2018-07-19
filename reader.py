@@ -487,8 +487,8 @@ class ODReader(_ReaderBase):
                 requested = []
                 for slot in turn['usr']['slu']:
                     if slot['act'] == 'inform':
-                        s = slot['slots'][0][1]
-                        if s not in ['dontcare', 'none']:
+                        keywords = slot['keywords']
+                        for s in keywords.split(" "):
                             constraint.extend(word_tokenize(s))
                     # else:
                         # requested.extend(word_tokenize(slot['slots'][0][1]))
