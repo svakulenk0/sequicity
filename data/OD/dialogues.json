@@ -86665,11 +86665,7 @@
             "slu": [
               {
                 "act": "greeting",
-                "slots": [
-                  [
-                  
-                  ]
-                ]
+                "slots": []
               }
             ]
           },
@@ -86688,11 +86684,7 @@
             "slu": [
               {
                 "act": "greeting",
-                "slots": [
-                  [
-                  
-                  ]
-                ]
+                "slots": []
               }
             ]
           },
@@ -86711,11 +86703,7 @@
             "slu": [
               {
                 "act": "greeting",
-                "slots": [
-                  [
-                  
-                  ]
-                ]
+                "slots": []
               }
             ]
           },
@@ -86734,11 +86722,7 @@
             "slu": [
               {
                 "act": "greeting",
-                "slots": [
-                  [
-                  
-                  ]
-                ]
+                "slots": []
               }
             ]
           },
@@ -86757,11 +86741,7 @@
             "slu": [
               {
                 "act": "greeting",
-                "slots": [
-                  [
-                  
-                  ]
-                ]
+                "slots": []
               }
             ]
           },
@@ -86780,11 +86760,7 @@
             "slu": [
               {
                 "act": "greeting",
-                "slots": [
-                  [
-                  
-                  ]
-                ]
+                "slots": []
               }
             ]
           },
@@ -86803,11 +86779,7 @@
             "slu": [
               {
                 "act": "general_query",
-                "slots": [
-                  [
-                  
-                  ]
-                ]
+                "slots": []
               }
             ]
           },
@@ -86826,11 +86798,7 @@
             "slu": [
               {
                 "act": "general_query",
-                "slots": [
-                  [
-                  
-                  ]
-                ]
+                "slots": []
               }
             ]
           },
@@ -86849,11 +86817,7 @@
             "slu": [
               {
                 "act": "general_query",
-                "slots": [
-                  [
-                  
-                  ]
-                ]
+                "slots": []
               }
             ]
           },
@@ -86871,12 +86835,8 @@
             "transcript": "Danke!",
             "slu": [
               {
-                "act": "feedback",
-                "slots": [
-                  [
-                  
-                  ]
-                ]
+                "act": "general_query",
+                "slots": []
               }
             ]
           },
@@ -86894,12 +86854,8 @@
             "transcript": "vielen dank",
             "slu": [
               {
-                "act": "feedback",
-                "slots": [
-                  [
-                  
-                  ]
-                ]
+                "act": "general_query",
+                "slots": []
               }
             ]
           },
