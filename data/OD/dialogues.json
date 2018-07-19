@@ -34274,2090 +34274,11 @@
         {
           "turn": 0,
           "usr": {
-            "transcript": "hochschule Buecher",
+            "transcript": "im looking for something related to Wetter or ZAMG",
             "slu": [
               {
                 "act": "inform",
-                "keywords": "['hochschule', 'Buecher']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "HBLA HAK",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['HBLA', 'HAK']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "Buch Universitaeten",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Buch', 'Universitaeten']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "Lesen Polytechnische",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Lesen', 'Polytechnische']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "schulen Volksschule",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['schulen', 'Volksschule']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "OpenDocument studierende",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['OpenDocument', 'studierende']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "Bibliotheken Bibliothek",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Bibliotheken', 'Bibliothek']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "Kindergaerten HTL",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Kindergaerten', 'HTL']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "PTS Sonderschulen",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['PTS', 'Sonderschulen']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "Wirtschaftszweigklassifikation 2008",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Wirtschaftszweigklassifikation', '2008']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "forschung Bildung",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['forschung', 'Bildung']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "2015 2014",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['2015', '2014']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "Wetter ZAMG",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Wetter', 'ZAMG']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "Allgemein APS",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Allgemein', 'APS']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "erwachsenenbildung burgenland",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['erwachsenenbildung', 'burgenland']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "kaernten Kinderkrippen",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['kaernten', 'Kinderkrippen']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "Schule lehrer",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Schule', 'lehrer']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "Wissensstadt Klima",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Wissensstadt', 'Klima']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "Ausbildung uni",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Ausbildung', 'uni']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "schueler Kinderbetreuung",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['schueler', 'Kinderbetreuung']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "Meterologie Mittelschule",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Meterologie', 'Mittelschule']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "Volksschulen OOE",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Volksschulen', 'OOE']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "Fachhochschulen Medien",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Fachhochschulen', 'Medien']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "Universitaet Aktivitaetenklassifikation",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Universitaet', 'Aktivitaetenklassifikation']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "Wasser 2013",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Wasser', '2013']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "vielleicht gibt es etwas über hochschule in Buecher",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['hochschule', 'Buecher']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "vielleicht gibt es etwas über Lesen in Polytechnische",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Lesen', 'Polytechnische']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "vielleicht gibt es etwas über PTS in Sonderschulen",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['PTS', 'Sonderschulen']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "vielleicht gibt es etwas über Meterologie in Mittelschule",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Meterologie', 'Mittelschule']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "vielleicht gibt es etwas über Kindergaerten in HTL",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Kindergaerten', 'HTL']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "vielleicht gibt es etwas über Wirtschaftszweigklassifikation in 2008",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Wirtschaftszweigklassifikation', '2008']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "vielleicht gibt es etwas über Volksschulen in OOE",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Volksschulen', 'OOE']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "vielleicht gibt es etwas über Buch in Universitaeten",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Buch', 'Universitaeten']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "vielleicht gibt es etwas über HBLA in HAK",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['HBLA', 'HAK']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "vielleicht gibt es etwas über Universitaet in Aktivitaetenklassifikation",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Universitaet', 'Aktivitaetenklassifikation']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "vielleicht gibt es etwas über erwachsenenbildung in burgenland",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['erwachsenenbildung', 'burgenland']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "vielleicht gibt es etwas über OpenDocument in studierende",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['OpenDocument', 'studierende']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "vielleicht gibt es etwas über Wissensstadt in Klima",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Wissensstadt', 'Klima']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "vielleicht gibt es etwas über Bibliotheken in Bibliothek",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Bibliotheken', 'Bibliothek']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "vielleicht gibt es etwas über Ausbildung in uni",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Ausbildung', 'uni']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "vielleicht gibt es etwas über Allgemein in APS",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Allgemein', 'APS']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "vielleicht gibt es etwas über Schule in lehrer",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Schule', 'lehrer']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "vielleicht gibt es etwas über Fachhochschulen in Medien",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Fachhochschulen', 'Medien']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "vielleicht gibt es etwas über kaernten in Kinderkrippen",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['kaernten', 'Kinderkrippen']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "vielleicht gibt es etwas über schueler in Kinderbetreuung",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['schueler', 'Kinderbetreuung']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "vielleicht gibt es etwas über Wetter in ZAMG",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Wetter', 'ZAMG']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "vielleicht gibt es etwas über Wasser in 2013",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Wasser', '2013']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "vielleicht gibt es etwas über schulen in Volksschule",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['schulen', 'Volksschule']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "vielleicht gibt es etwas über forschung in Bildung",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['forschung', 'Bildung']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "vielleicht gibt es etwas über 2015 in 2014",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['2015', '2014']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich habe interesse für Universitaet und Aktivitaetenklassifikation",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Universitaet', 'Aktivitaetenklassifikation']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich habe interesse für Wasser und 2013",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Wasser', '2013']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich habe interesse für Fachhochschulen und Medien",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Fachhochschulen', 'Medien']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich habe interesse für erwachsenenbildung und burgenland",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['erwachsenenbildung', 'burgenland']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich habe interesse für HBLA und HAK",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['HBLA', 'HAK']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich habe interesse für Wirtschaftszweigklassifikation und 2008",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Wirtschaftszweigklassifikation', '2008']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich habe interesse für Allgemein und APS",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Allgemein', 'APS']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich habe interesse für Meterologie und Mittelschule",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Meterologie', 'Mittelschule']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich habe interesse für Lesen und Polytechnische",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Lesen', 'Polytechnische']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich habe interesse für Kindergaerten und HTL",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Kindergaerten', 'HTL']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich habe interesse für forschung und Bildung",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['forschung', 'Bildung']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich habe interesse für Bibliotheken und Bibliothek",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Bibliotheken', 'Bibliothek']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich habe interesse für Ausbildung und uni",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Ausbildung', 'uni']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich habe interesse für kaernten und Kinderkrippen",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['kaernten', 'Kinderkrippen']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich habe interesse für PTS und Sonderschulen",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['PTS', 'Sonderschulen']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich habe interesse für OpenDocument und studierende",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['OpenDocument', 'studierende']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich habe interesse für Wetter und ZAMG",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Wetter', 'ZAMG']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich habe interesse für 2015 und 2014",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['2015', '2014']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich habe interesse für Buch und Universitaeten",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Buch', 'Universitaeten']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich habe interesse für schulen und Volksschule",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['schulen', 'Volksschule']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich habe interesse für hochschule und Buecher",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['hochschule', 'Buecher']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich habe interesse für Volksschulen und OOE",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Volksschulen', 'OOE']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich habe interesse für Wissensstadt und Klima",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Wissensstadt', 'Klima']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich habe interesse für schueler und Kinderbetreuung",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['schueler', 'Kinderbetreuung']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich habe interesse für Schule und lehrer",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Schule', 'lehrer']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "hast du etwas über HBLA und HAK",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['HBLA', 'HAK']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "hast du etwas über Bibliotheken und Bibliothek",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Bibliotheken', 'Bibliothek']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "hast du etwas über Universitaet und Aktivitaetenklassifikation",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Universitaet', 'Aktivitaetenklassifikation']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "hast du etwas über 2015 und 2014",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['2015', '2014']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "hast du etwas über Kindergaerten und HTL",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Kindergaerten', 'HTL']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "hast du etwas über Ausbildung und uni",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Ausbildung', 'uni']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "hast du etwas über Lesen und Polytechnische",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Lesen', 'Polytechnische']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "hast du etwas über Meterologie und Mittelschule",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Meterologie', 'Mittelschule']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "hast du etwas über Wirtschaftszweigklassifikation und 2008",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Wirtschaftszweigklassifikation', '2008']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "hast du etwas über Schule und lehrer",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Schule', 'lehrer']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "hast du etwas über hochschule und Buecher",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['hochschule', 'Buecher']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "hast du etwas über erwachsenenbildung und burgenland",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['erwachsenenbildung', 'burgenland']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "hast du etwas über Wetter und ZAMG",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Wetter', 'ZAMG']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "hast du etwas über schueler und Kinderbetreuung",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['schueler', 'Kinderbetreuung']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "hast du etwas über Allgemein und APS",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Allgemein', 'APS']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "hast du etwas über Volksschulen und OOE",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Volksschulen', 'OOE']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "hast du etwas über Buch und Universitaeten",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Buch', 'Universitaeten']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "hast du etwas über PTS und Sonderschulen",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['PTS', 'Sonderschulen']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "hast du etwas über Wasser und 2013",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Wasser', '2013']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "hast du etwas über Wissensstadt und Klima",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Wissensstadt', 'Klima']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "hast du etwas über forschung und Bildung",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['forschung', 'Bildung']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "hast du etwas über schulen und Volksschule",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['schulen', 'Volksschule']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "hast du etwas über kaernten und Kinderkrippen",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['kaernten', 'Kinderkrippen']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "hast du etwas über Fachhochschulen und Medien",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Fachhochschulen', 'Medien']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "hast du etwas über OpenDocument und studierende",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['OpenDocument', 'studierende']"
+                "keywords": "Wetter ZAMG"
               }
             ]
           },
@@ -36378,175 +34299,7 @@
             "slu": [
               {
                 "act": "inform",
-                "keywords": "['OpenDocument', 'studierende']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "im looking for something related to Bibliotheken or Bibliothek",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Bibliotheken', 'Bibliothek']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "im looking for something related to Kindergaerten or HTL",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Kindergaerten', 'HTL']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "im looking for something related to Wissensstadt or Klima",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Wissensstadt', 'Klima']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "im looking for something related to schulen or Volksschule",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['schulen', 'Volksschule']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "im looking for something related to Volksschulen or OOE",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Volksschulen', 'OOE']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "im looking for something related to Meterologie or Mittelschule",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Meterologie', 'Mittelschule']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "im looking for something related to Ausbildung or uni",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Ausbildung', 'uni']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "im looking for something related to forschung or Bildung",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['forschung', 'Bildung']"
+                "keywords": "OpenDocument studierende"
               }
             ]
           },
@@ -36567,7 +34320,7 @@
             "slu": [
               {
                 "act": "inform",
-                "keywords": "['hochschule', 'Buecher']"
+                "keywords": "hochschule Buecher"
               }
             ]
           },
@@ -36584,284 +34337,11 @@
         {
           "turn": 0,
           "usr": {
-            "transcript": "im looking for something related to Wirtschaftszweigklassifikation or 2008",
+            "transcript": "im looking for something related to Ausbildung or uni",
             "slu": [
               {
                 "act": "inform",
-                "keywords": "['Wirtschaftszweigklassifikation', '2008']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "im looking for something related to 2015 or 2014",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['2015', '2014']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "im looking for something related to PTS or Sonderschulen",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['PTS', 'Sonderschulen']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "im looking for something related to Wasser or 2013",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Wasser', '2013']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "im looking for something related to Lesen or Polytechnische",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Lesen', 'Polytechnische']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "im looking for something related to erwachsenenbildung or burgenland",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['erwachsenenbildung', 'burgenland']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "im looking for something related to kaernten or Kinderkrippen",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['kaernten', 'Kinderkrippen']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "im looking for something related to schueler or Kinderbetreuung",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['schueler', 'Kinderbetreuung']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "im looking for something related to Wetter or ZAMG",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Wetter', 'ZAMG']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "im looking for something related to Allgemein or APS",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Allgemein', 'APS']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "im looking for something related to Fachhochschulen or Medien",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Fachhochschulen', 'Medien']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "im looking for something related to Universitaet or Aktivitaetenklassifikation",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Universitaet', 'Aktivitaetenklassifikation']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "im looking for something related to Buch or Universitaeten",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Buch', 'Universitaeten']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "im looking for something related to Schule or lehrer",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Schule', 'lehrer']"
+                "keywords": "Ausbildung uni"
               }
             ]
           },
@@ -36882,7 +34362,7 @@
             "slu": [
               {
                 "act": "inform",
-                "keywords": "['HBLA', 'HAK']"
+                "keywords": "HBLA HAK"
               }
             ]
           },
@@ -36899,11 +34379,11 @@
         {
           "turn": 0,
           "usr": {
-            "transcript": "wie viele Bibliotheken in Bibliothek ???",
+            "transcript": "im looking for something related to 2015 or 2014",
             "slu": [
               {
                 "act": "inform",
-                "keywords": "['Bibliotheken', 'Bibliothek']"
+                "keywords": "2015 2014"
               }
             ]
           },
@@ -36920,11 +34400,11 @@
         {
           "turn": 0,
           "usr": {
-            "transcript": "wie viele PTS in Sonderschulen ???",
+            "transcript": "im looking for something related to Schule or lehrer",
             "slu": [
               {
                 "act": "inform",
-                "keywords": "['PTS', 'Sonderschulen']"
+                "keywords": "Schule lehrer"
               }
             ]
           },
@@ -36941,11 +34421,2468 @@
         {
           "turn": 0,
           "usr": {
-            "transcript": "wie viele Universitaet in Aktivitaetenklassifikation ???",
+            "transcript": "im looking for something related to schueler or Kinderbetreuung",
             "slu": [
               {
                 "act": "inform",
-                "keywords": "['Universitaet', 'Aktivitaetenklassifikation']"
+                "keywords": "schueler Kinderbetreuung"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "im looking for something related to Bibliotheken or Bibliothek",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Bibliotheken Bibliothek"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "im looking for something related to PTS or Sonderschulen",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "PTS Sonderschulen"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "im looking for something related to Volksschulen or OOE",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Volksschulen OOE"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "im looking for something related to Allgemein or APS",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Allgemein APS"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "im looking for something related to Universitaet or Aktivitaetenklassifikation",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Universitaet Aktivitaetenklassifikation"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "im looking for something related to Buch or Universitaeten",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Buch Universitaeten"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "im looking for something related to Wissensstadt or Klima",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Wissensstadt Klima"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "im looking for something related to Kindergaerten or HTL",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Kindergaerten HTL"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "im looking for something related to Meterologie or Mittelschule",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Meterologie Mittelschule"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "im looking for something related to kaernten or Kinderkrippen",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "kaernten Kinderkrippen"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "im looking for something related to Wasser or 2013",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Wasser 2013"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "im looking for something related to Lesen or Polytechnische",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Lesen Polytechnische"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "im looking for something related to schulen or Volksschule",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "schulen Volksschule"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "im looking for something related to erwachsenenbildung or burgenland",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "erwachsenenbildung burgenland"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "im looking for something related to Fachhochschulen or Medien",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Fachhochschulen Medien"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "im looking for something related to forschung or Bildung",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "forschung Bildung"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "im looking for something related to Wirtschaftszweigklassifikation or 2008",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Wirtschaftszweigklassifikation 2008"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich habe interesse für Schule und lehrer",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Schule lehrer"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich habe interesse für schueler und Kinderbetreuung",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "schueler Kinderbetreuung"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich habe interesse für Wasser und 2013",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Wasser 2013"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich habe interesse für OpenDocument und studierende",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "OpenDocument studierende"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich habe interesse für hochschule und Buecher",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "hochschule Buecher"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich habe interesse für Bibliotheken und Bibliothek",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Bibliotheken Bibliothek"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich habe interesse für Wetter und ZAMG",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Wetter ZAMG"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich habe interesse für HBLA und HAK",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "HBLA HAK"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich habe interesse für Ausbildung und uni",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Ausbildung uni"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich habe interesse für Allgemein und APS",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Allgemein APS"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich habe interesse für Universitaet und Aktivitaetenklassifikation",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Universitaet Aktivitaetenklassifikation"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich habe interesse für Meterologie und Mittelschule",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Meterologie Mittelschule"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich habe interesse für Wirtschaftszweigklassifikation und 2008",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Wirtschaftszweigklassifikation 2008"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich habe interesse für forschung und Bildung",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "forschung Bildung"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich habe interesse für PTS und Sonderschulen",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "PTS Sonderschulen"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich habe interesse für 2015 und 2014",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "2015 2014"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich habe interesse für schulen und Volksschule",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "schulen Volksschule"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich habe interesse für Lesen und Polytechnische",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Lesen Polytechnische"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich habe interesse für kaernten und Kinderkrippen",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "kaernten Kinderkrippen"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich habe interesse für Wissensstadt und Klima",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Wissensstadt Klima"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich habe interesse für erwachsenenbildung und burgenland",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "erwachsenenbildung burgenland"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich habe interesse für Fachhochschulen und Medien",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Fachhochschulen Medien"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich habe interesse für Volksschulen und OOE",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Volksschulen OOE"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich habe interesse für Buch und Universitaeten",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Buch Universitaeten"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich habe interesse für Kindergaerten und HTL",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Kindergaerten HTL"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "vielleicht gibt es etwas über OpenDocument in studierende",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "OpenDocument studierende"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "vielleicht gibt es etwas über Wissensstadt in Klima",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Wissensstadt Klima"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "vielleicht gibt es etwas über Schule in lehrer",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Schule lehrer"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "vielleicht gibt es etwas über erwachsenenbildung in burgenland",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "erwachsenenbildung burgenland"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "vielleicht gibt es etwas über hochschule in Buecher",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "hochschule Buecher"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "vielleicht gibt es etwas über HBLA in HAK",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "HBLA HAK"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "vielleicht gibt es etwas über Meterologie in Mittelschule",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Meterologie Mittelschule"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "vielleicht gibt es etwas über Kindergaerten in HTL",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Kindergaerten HTL"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "vielleicht gibt es etwas über Allgemein in APS",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Allgemein APS"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "vielleicht gibt es etwas über Volksschulen in OOE",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Volksschulen OOE"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "vielleicht gibt es etwas über forschung in Bildung",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "forschung Bildung"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "vielleicht gibt es etwas über Buch in Universitaeten",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Buch Universitaeten"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "vielleicht gibt es etwas über schulen in Volksschule",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "schulen Volksschule"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "vielleicht gibt es etwas über Wasser in 2013",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Wasser 2013"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "vielleicht gibt es etwas über Fachhochschulen in Medien",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Fachhochschulen Medien"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "vielleicht gibt es etwas über 2015 in 2014",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "2015 2014"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "vielleicht gibt es etwas über Wirtschaftszweigklassifikation in 2008",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Wirtschaftszweigklassifikation 2008"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "vielleicht gibt es etwas über Ausbildung in uni",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Ausbildung uni"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "vielleicht gibt es etwas über PTS in Sonderschulen",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "PTS Sonderschulen"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "vielleicht gibt es etwas über Bibliotheken in Bibliothek",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Bibliotheken Bibliothek"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "vielleicht gibt es etwas über schueler in Kinderbetreuung",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "schueler Kinderbetreuung"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "vielleicht gibt es etwas über Universitaet in Aktivitaetenklassifikation",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Universitaet Aktivitaetenklassifikation"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "vielleicht gibt es etwas über Lesen in Polytechnische",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Lesen Polytechnische"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "vielleicht gibt es etwas über Wetter in ZAMG",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Wetter ZAMG"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "vielleicht gibt es etwas über kaernten in Kinderkrippen",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "kaernten Kinderkrippen"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "PTS Sonderschulen",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "PTS Sonderschulen"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "Ausbildung uni",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Ausbildung uni"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "Bibliotheken Bibliothek",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Bibliotheken Bibliothek"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "Wissensstadt Klima",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Wissensstadt Klima"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "Wetter ZAMG",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Wetter ZAMG"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "schulen Volksschule",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "schulen Volksschule"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "HBLA HAK",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "HBLA HAK"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "schueler Kinderbetreuung",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "schueler Kinderbetreuung"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "Volksschulen OOE",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Volksschulen OOE"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "Schule lehrer",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Schule lehrer"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "Wasser 2013",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Wasser 2013"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "erwachsenenbildung burgenland",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "erwachsenenbildung burgenland"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "2015 2014",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "2015 2014"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "Buch Universitaeten",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Buch Universitaeten"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "OpenDocument studierende",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "OpenDocument studierende"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "hochschule Buecher",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "hochschule Buecher"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "Wirtschaftszweigklassifikation 2008",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Wirtschaftszweigklassifikation 2008"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "forschung Bildung",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "forschung Bildung"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "Allgemein APS",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Allgemein APS"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "Meterologie Mittelschule",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Meterologie Mittelschule"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "Universitaet Aktivitaetenklassifikation",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Universitaet Aktivitaetenklassifikation"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "Lesen Polytechnische",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Lesen Polytechnische"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "kaernten Kinderkrippen",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "kaernten Kinderkrippen"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "Kindergaerten HTL",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Kindergaerten HTL"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "Fachhochschulen Medien",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Fachhochschulen Medien"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "hast du etwas über Bibliotheken und Bibliothek",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Bibliotheken Bibliothek"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "hast du etwas über kaernten und Kinderkrippen",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "kaernten Kinderkrippen"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "hast du etwas über Volksschulen und OOE",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Volksschulen OOE"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "hast du etwas über Wasser und 2013",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Wasser 2013"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "hast du etwas über Buch und Universitaeten",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Buch Universitaeten"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "hast du etwas über Schule und lehrer",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Schule lehrer"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "hast du etwas über 2015 und 2014",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "2015 2014"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "hast du etwas über Meterologie und Mittelschule",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Meterologie Mittelschule"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "hast du etwas über Wirtschaftszweigklassifikation und 2008",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Wirtschaftszweigklassifikation 2008"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "hast du etwas über Lesen und Polytechnische",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Lesen Polytechnische"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "hast du etwas über hochschule und Buecher",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "hochschule Buecher"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "hast du etwas über PTS und Sonderschulen",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "PTS Sonderschulen"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "hast du etwas über schulen und Volksschule",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "schulen Volksschule"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "hast du etwas über erwachsenenbildung und burgenland",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "erwachsenenbildung burgenland"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "hast du etwas über forschung und Bildung",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "forschung Bildung"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "hast du etwas über Wetter und ZAMG",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Wetter ZAMG"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "hast du etwas über Kindergaerten und HTL",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Kindergaerten HTL"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "hast du etwas über Ausbildung und uni",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Ausbildung uni"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "hast du etwas über Universitaet und Aktivitaetenklassifikation",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Universitaet Aktivitaetenklassifikation"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "hast du etwas über Wissensstadt und Klima",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Wissensstadt Klima"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "hast du etwas über schueler und Kinderbetreuung",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "schueler Kinderbetreuung"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "hast du etwas über OpenDocument und studierende",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "OpenDocument studierende"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "hast du etwas über HBLA und HAK",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "HBLA HAK"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "hast du etwas über Allgemein und APS",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Allgemein APS"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "hast du etwas über Fachhochschulen und Medien",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Fachhochschulen Medien"
               }
             ]
           },
@@ -36966,385 +36903,7 @@
             "slu": [
               {
                 "act": "inform",
-                "keywords": "['erwachsenenbildung', 'burgenland']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "wie viele Volksschulen in OOE ???",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Volksschulen', 'OOE']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "wie viele hochschule in Buecher ???",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['hochschule', 'Buecher']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "wie viele Meterologie in Mittelschule ???",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Meterologie', 'Mittelschule']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "wie viele Schule in lehrer ???",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Schule', 'lehrer']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "wie viele Wissensstadt in Klima ???",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Wissensstadt', 'Klima']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "wie viele Buch in Universitaeten ???",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Buch', 'Universitaeten']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "wie viele kaernten in Kinderkrippen ???",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['kaernten', 'Kinderkrippen']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "wie viele Kindergaerten in HTL ???",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Kindergaerten', 'HTL']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "wie viele Wirtschaftszweigklassifikation in 2008 ???",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Wirtschaftszweigklassifikation', '2008']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "wie viele Allgemein in APS ???",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Allgemein', 'APS']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "wie viele forschung in Bildung ???",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['forschung', 'Bildung']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "wie viele Lesen in Polytechnische ???",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Lesen', 'Polytechnische']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "wie viele Wasser in 2013 ???",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Wasser', '2013']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "wie viele Wetter in ZAMG ???",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Wetter', 'ZAMG']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "wie viele schulen in Volksschule ???",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['schulen', 'Volksschule']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "wie viele OpenDocument in studierende ???",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['OpenDocument', 'studierende']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "wie viele Fachhochschulen in Medien ???",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Fachhochschulen', 'Medien']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "wie viele 2015 in 2014 ???",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['2015', '2014']"
+                "keywords": "erwachsenenbildung burgenland"
               }
             ]
           },
@@ -37365,7 +36924,196 @@
             "slu": [
               {
                 "act": "inform",
-                "keywords": "['schueler', 'Kinderbetreuung']"
+                "keywords": "schueler Kinderbetreuung"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "wie viele Wirtschaftszweigklassifikation in 2008 ???",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Wirtschaftszweigklassifikation 2008"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "wie viele Allgemein in APS ???",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Allgemein APS"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "wie viele Universitaet in Aktivitaetenklassifikation ???",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Universitaet Aktivitaetenklassifikation"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "wie viele Wasser in 2013 ???",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Wasser 2013"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "wie viele Volksschulen in OOE ???",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Volksschulen OOE"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "wie viele kaernten in Kinderkrippen ???",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "kaernten Kinderkrippen"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "wie viele Bibliotheken in Bibliothek ???",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Bibliotheken Bibliothek"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "wie viele Wissensstadt in Klima ???",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Wissensstadt Klima"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "wie viele OpenDocument in studierende ???",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "OpenDocument studierende"
               }
             ]
           },
@@ -37386,7 +37134,196 @@
             "slu": [
               {
                 "act": "inform",
-                "keywords": "['Ausbildung', 'uni']"
+                "keywords": "Ausbildung uni"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "wie viele hochschule in Buecher ???",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "hochschule Buecher"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "wie viele schulen in Volksschule ???",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "schulen Volksschule"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "wie viele Wetter in ZAMG ???",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Wetter ZAMG"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "wie viele Meterologie in Mittelschule ???",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Meterologie Mittelschule"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "wie viele Buch in Universitaeten ???",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Buch Universitaeten"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "wie viele Schule in lehrer ???",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Schule lehrer"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "wie viele forschung in Bildung ???",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "forschung Bildung"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "wie viele Fachhochschulen in Medien ???",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Fachhochschulen Medien"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "wie viele PTS in Sonderschulen ???",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "PTS Sonderschulen"
               }
             ]
           },
@@ -37407,7 +37344,7 @@
             "slu": [
               {
                 "act": "inform",
-                "keywords": "['HBLA', 'HAK']"
+                "keywords": "HBLA HAK"
               }
             ]
           },
@@ -37424,11 +37361,11 @@
         {
           "turn": 0,
           "usr": {
-            "transcript": "gibt es noch OpenDocument in studierende",
+            "transcript": "wie viele Kindergaerten in HTL ???",
             "slu": [
               {
                 "act": "inform",
-                "keywords": "['OpenDocument', 'studierende']"
+                "keywords": "Kindergaerten HTL"
               }
             ]
           },
@@ -37445,11 +37382,11 @@
         {
           "turn": 0,
           "usr": {
-            "transcript": "gibt es noch Volksschulen in OOE",
+            "transcript": "wie viele 2015 in 2014 ???",
             "slu": [
               {
                 "act": "inform",
-                "keywords": "['Volksschulen', 'OOE']"
+                "keywords": "2015 2014"
               }
             ]
           },
@@ -37466,242 +37403,11 @@
         {
           "turn": 0,
           "usr": {
-            "transcript": "gibt es noch Kindergaerten in HTL",
+            "transcript": "wie viele Lesen in Polytechnische ???",
             "slu": [
               {
                 "act": "inform",
-                "keywords": "['Kindergaerten', 'HTL']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "gibt es noch 2015 in 2014",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['2015', '2014']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "gibt es noch HBLA in HAK",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['HBLA', 'HAK']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "gibt es noch kaernten in Kinderkrippen",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['kaernten', 'Kinderkrippen']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "gibt es noch Bibliotheken in Bibliothek",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Bibliotheken', 'Bibliothek']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "gibt es noch Wissensstadt in Klima",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Wissensstadt', 'Klima']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "gibt es noch erwachsenenbildung in burgenland",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['erwachsenenbildung', 'burgenland']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "gibt es noch Wasser in 2013",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Wasser', '2013']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "gibt es noch Universitaet in Aktivitaetenklassifikation",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Universitaet', 'Aktivitaetenklassifikation']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "gibt es noch Ausbildung in uni",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Ausbildung', 'uni']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "gibt es noch Buch in Universitaeten",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Buch', 'Universitaeten']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "gibt es noch schueler in Kinderbetreuung",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['schueler', 'Kinderbetreuung']"
+                "keywords": "Lesen Polytechnische"
               }
             ]
           },
@@ -37722,7 +37428,7 @@
             "slu": [
               {
                 "act": "inform",
-                "keywords": "['Lesen', 'Polytechnische']"
+                "keywords": "Lesen Polytechnische"
               }
             ]
           },
@@ -37739,32 +37445,11 @@
         {
           "turn": 0,
           "usr": {
-            "transcript": "gibt es noch forschung in Bildung",
+            "transcript": "gibt es noch Universitaet in Aktivitaetenklassifikation",
             "slu": [
               {
                 "act": "inform",
-                "keywords": "['forschung', 'Bildung']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "gibt es noch hochschule in Buecher",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['hochschule', 'Buecher']"
+                "keywords": "Universitaet Aktivitaetenklassifikation"
               }
             ]
           },
@@ -37785,7 +37470,49 @@
             "slu": [
               {
                 "act": "inform",
-                "keywords": "['schulen', 'Volksschule']"
+                "keywords": "schulen Volksschule"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "gibt es noch Ausbildung in uni",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Ausbildung uni"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "gibt es noch schueler in Kinderbetreuung",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "schueler Kinderbetreuung"
               }
             ]
           },
@@ -37806,7 +37533,7 @@
             "slu": [
               {
                 "act": "inform",
-                "keywords": "['Wirtschaftszweigklassifikation', '2008']"
+                "keywords": "Wirtschaftszweigklassifikation 2008"
               }
             ]
           },
@@ -37823,11 +37550,11 @@
         {
           "turn": 0,
           "usr": {
-            "transcript": "gibt es noch Schule in lehrer",
+            "transcript": "gibt es noch hochschule in Buecher",
             "slu": [
               {
                 "act": "inform",
-                "keywords": "['Schule', 'lehrer']"
+                "keywords": "hochschule Buecher"
               }
             ]
           },
@@ -37848,7 +37575,7 @@
             "slu": [
               {
                 "act": "inform",
-                "keywords": "['Wetter', 'ZAMG']"
+                "keywords": "Wetter ZAMG"
               }
             ]
           },
@@ -37865,11 +37592,53 @@
         {
           "turn": 0,
           "usr": {
-            "transcript": "gibt es noch PTS in Sonderschulen",
+            "transcript": "gibt es noch Schule in lehrer",
             "slu": [
               {
                 "act": "inform",
-                "keywords": "['PTS', 'Sonderschulen']"
+                "keywords": "Schule lehrer"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "gibt es noch OpenDocument in studierende",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "OpenDocument studierende"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "gibt es noch erwachsenenbildung in burgenland",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "erwachsenenbildung burgenland"
               }
             ]
           },
@@ -37890,7 +37659,7 @@
             "slu": [
               {
                 "act": "inform",
-                "keywords": "['Allgemein', 'APS']"
+                "keywords": "Allgemein APS"
               }
             ]
           },
@@ -37907,11 +37676,137 @@
         {
           "turn": 0,
           "usr": {
-            "transcript": "gibt es noch Meterologie in Mittelschule",
+            "transcript": "gibt es noch HBLA in HAK",
             "slu": [
               {
                 "act": "inform",
-                "keywords": "['Meterologie', 'Mittelschule']"
+                "keywords": "HBLA HAK"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "gibt es noch Wissensstadt in Klima",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Wissensstadt Klima"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "gibt es noch Volksschulen in OOE",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Volksschulen OOE"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "gibt es noch forschung in Bildung",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "forschung Bildung"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "gibt es noch kaernten in Kinderkrippen",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "kaernten Kinderkrippen"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "gibt es noch Kindergaerten in HTL",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Kindergaerten HTL"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "gibt es noch 2015 in 2014",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "2015 2014"
               }
             ]
           },
@@ -37932,7 +37827,112 @@
             "slu": [
               {
                 "act": "inform",
-                "keywords": "['Fachhochschulen', 'Medien']"
+                "keywords": "Fachhochschulen Medien"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "gibt es noch PTS in Sonderschulen",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "PTS Sonderschulen"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "gibt es noch Meterologie in Mittelschule",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Meterologie Mittelschule"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "gibt es noch Wasser in 2013",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Wasser 2013"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "gibt es noch Bibliotheken in Bibliothek",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Bibliotheken Bibliothek"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "gibt es noch Buch in Universitaeten",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Buch Universitaeten"
               }
             ]
           },
@@ -37953,448 +37953,7 @@
             "slu": [
               {
                 "act": "inform",
-                "keywords": "['Bibliotheken', 'Bibliothek']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich interesiere mich für daten im bezug mit OpenDocument in studierende",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['OpenDocument', 'studierende']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich interesiere mich für daten im bezug mit PTS in Sonderschulen",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['PTS', 'Sonderschulen']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich interesiere mich für daten im bezug mit Allgemein in APS",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Allgemein', 'APS']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich interesiere mich für daten im bezug mit Universitaet in Aktivitaetenklassifikation",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Universitaet', 'Aktivitaetenklassifikation']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich interesiere mich für daten im bezug mit erwachsenenbildung in burgenland",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['erwachsenenbildung', 'burgenland']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich interesiere mich für daten im bezug mit Ausbildung in uni",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Ausbildung', 'uni']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich interesiere mich für daten im bezug mit Fachhochschulen in Medien",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Fachhochschulen', 'Medien']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich interesiere mich für daten im bezug mit Volksschulen in OOE",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Volksschulen', 'OOE']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich interesiere mich für daten im bezug mit schulen in Volksschule",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['schulen', 'Volksschule']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich interesiere mich für daten im bezug mit Lesen in Polytechnische",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Lesen', 'Polytechnische']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich interesiere mich für daten im bezug mit Wetter in ZAMG",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Wetter', 'ZAMG']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich interesiere mich für daten im bezug mit forschung in Bildung",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['forschung', 'Bildung']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich interesiere mich für daten im bezug mit hochschule in Buecher",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['hochschule', 'Buecher']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich interesiere mich für daten im bezug mit 2015 in 2014",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['2015', '2014']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich interesiere mich für daten im bezug mit Wissensstadt in Klima",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Wissensstadt', 'Klima']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich interesiere mich für daten im bezug mit Schule in lehrer",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Schule', 'lehrer']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich interesiere mich für daten im bezug mit Meterologie in Mittelschule",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Meterologie', 'Mittelschule']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich interesiere mich für daten im bezug mit HBLA in HAK",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['HBLA', 'HAK']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich interesiere mich für daten im bezug mit Kindergaerten in HTL",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Kindergaerten', 'HTL']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich interesiere mich für daten im bezug mit Buch in Universitaeten",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['Buch', 'Universitaeten']"
-              }
-            ]
-          },
-          "sys": {
-            "sent": "sample"
-          }
-        }
-      ]
-  },
-
-
-  {
-      "dial": [
-        {
-          "turn": 0,
-          "usr": {
-            "transcript": "ich interesiere mich für daten im bezug mit kaernten in Kinderkrippen",
-            "slu": [
-              {
-                "act": "inform",
-                "keywords": "['kaernten', 'Kinderkrippen']"
+                "keywords": "Bibliotheken Bibliothek"
               }
             ]
           },
@@ -38415,7 +37974,7 @@
             "slu": [
               {
                 "act": "inform",
-                "keywords": "['schueler', 'Kinderbetreuung']"
+                "keywords": "schueler Kinderbetreuung"
               }
             ]
           },
@@ -38432,11 +37991,179 @@
         {
           "turn": 0,
           "usr": {
-            "transcript": "ich interesiere mich für daten im bezug mit Wirtschaftszweigklassifikation in 2008",
+            "transcript": "ich interesiere mich für daten im bezug mit Schule in lehrer",
             "slu": [
               {
                 "act": "inform",
-                "keywords": "['Wirtschaftszweigklassifikation', '2008']"
+                "keywords": "Schule lehrer"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich interesiere mich für daten im bezug mit Kindergaerten in HTL",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Kindergaerten HTL"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich interesiere mich für daten im bezug mit Meterologie in Mittelschule",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Meterologie Mittelschule"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich interesiere mich für daten im bezug mit HBLA in HAK",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "HBLA HAK"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich interesiere mich für daten im bezug mit Lesen in Polytechnische",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Lesen Polytechnische"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich interesiere mich für daten im bezug mit PTS in Sonderschulen",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "PTS Sonderschulen"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich interesiere mich für daten im bezug mit forschung in Bildung",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "forschung Bildung"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich interesiere mich für daten im bezug mit Universitaet in Aktivitaetenklassifikation",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Universitaet Aktivitaetenklassifikation"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich interesiere mich für daten im bezug mit Ausbildung in uni",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Ausbildung uni"
               }
             ]
           },
@@ -38457,7 +38184,280 @@
             "slu": [
               {
                 "act": "inform",
-                "keywords": "['Wasser', '2013']"
+                "keywords": "Wasser 2013"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich interesiere mich für daten im bezug mit Fachhochschulen in Medien",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Fachhochschulen Medien"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich interesiere mich für daten im bezug mit schulen in Volksschule",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "schulen Volksschule"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich interesiere mich für daten im bezug mit kaernten in Kinderkrippen",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "kaernten Kinderkrippen"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich interesiere mich für daten im bezug mit Allgemein in APS",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Allgemein APS"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich interesiere mich für daten im bezug mit Wissensstadt in Klima",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Wissensstadt Klima"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich interesiere mich für daten im bezug mit erwachsenenbildung in burgenland",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "erwachsenenbildung burgenland"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich interesiere mich für daten im bezug mit OpenDocument in studierende",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "OpenDocument studierende"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich interesiere mich für daten im bezug mit Volksschulen in OOE",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Volksschulen OOE"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich interesiere mich für daten im bezug mit Buch in Universitaeten",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Buch Universitaeten"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich interesiere mich für daten im bezug mit 2015 in 2014",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "2015 2014"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich interesiere mich für daten im bezug mit Wetter in ZAMG",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Wetter ZAMG"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich interesiere mich für daten im bezug mit hochschule in Buecher",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "hochschule Buecher"
+              }
+            ]
+          },
+          "sys": {
+            "sent": "sample"
+          }
+        }
+      ]
+  },
+
+
+  {
+      "dial": [
+        {
+          "turn": 0,
+          "usr": {
+            "transcript": "ich interesiere mich für daten im bezug mit Wirtschaftszweigklassifikation in 2008",
+            "slu": [
+              {
+                "act": "inform",
+                "keywords": "Wirtschaftszweigklassifikation 2008"
               }
             ]
           },
