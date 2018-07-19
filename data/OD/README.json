@@ -13,7 +13,7 @@ Dialogues structure:
               transcript
               slu[
                      act: "inform"
-                     slots[]
+                     keywords: "wien hunde"
               ]
         sys
               sent
