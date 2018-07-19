@@ -490,8 +490,8 @@ class ODReader(_ReaderBase):
                         s = slot['slots'][0][1]
                         if s not in ['dontcare', 'none']:
                             constraint.extend(word_tokenize(s))
-                    else:
-                        requested.extend(word_tokenize(slot['slots'][0][1]))
+                    # else:
+                        # requested.extend(word_tokenize(slot['slots'][0][1]))
                 degree = len(self.db_search(constraint))
                 requested = sorted(requested)
                 constraint.append('EOS_Z1')
