@@ -391,7 +391,7 @@ def main():
         m.reinforce_tune()
     elif args.mode == 'iteract':
         m.load_model()
-        print("Hi! What would you like to search for?")
+        print("Willkommen!")
         while True:
             input_text = input().lower()
             response, bspan = m.infer((input_text))
