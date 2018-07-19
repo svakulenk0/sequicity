@@ -488,8 +488,7 @@ class ODReader(_ReaderBase):
                 for slot in turn['usr']['slu']:
                     if slot['act'] == 'inform':
                         keywords = slot['keywords']
-                        for s in keywords.split(" "):
-                            constraint.extend(word_tokenize(s))
+                        constraint.extend(word_tokenize(keywords))
                     # else:
                         # requested.extend(word_tokenize(slot['slots'][0][1]))
                 degree = len(self.db_search(constraint))
@@ -670,7 +669,6 @@ class KvretReader(_ReaderBase):
         f = open(path,'w')
         json.dump(data,f,indent=2)
         f.close()
-
 
     def _load_tokenized_data(self, filename):
         '''
