@@ -52,11 +52,10 @@ pip3 install --user -r requirements.txt
 
 For fasttext embeddings:
 
-* Cython
-* fasttext
+* cysignals
+* pyfasttext
 
-pip3 install --user fasttext
-sudo apt-get install python3-dev
+pip3 install --user pyfasttext
 
 2. Make directories under PROJECT_ROOT.
 ```
