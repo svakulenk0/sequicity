@@ -5,8 +5,8 @@ import configparser
 class _Config:
     def __init__(self):
         self._init_logging_handler()
-        self.cuda_device = 0        
-        self.eos_m_token = 'EOS_M'       
+        self.cuda_device = 0
+        self.eos_m_token = 'EOS_M'
         self.beam_len_bonus = 0.5
 
         self.mode = 'unknown'
@@ -64,7 +64,7 @@ class _Config:
         self.beam_len_bonus = 0.5
         self.prev_z_method = 'separate'
         self.vocab_size = 800
-        self.embedding_size = 50
+        self.embedding_size = 300
         self.hidden_size = 50
         self.split = (3, 1, 1)
         self.lr = 0.003
@@ -73,7 +73,7 @@ class _Config:
         self.data = './data/OD/dialogues.json'
         self.entity = './data/OD/entities.json'
         self.db = './data/OD/DB.json'
-        self.glove_path = './data/glove/glove.6B.50d.txt'
+        self.embeddings_path = './data/fasttext/wiki.de.bin'
         self.batch_size = 32
         self.z_length = 8
         self.degree_size = 5
