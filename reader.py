@@ -983,7 +983,6 @@ def get_fasttext_matrix(vocab, initial_embedding_np):
     new_avg, new_std = 0, 0
 
     for word in vocab._item2idx:
-        print(word)
         vec = model[word]
         vec = np.array(vec, np.float32)
         word_idx = vocab.encode(word)
