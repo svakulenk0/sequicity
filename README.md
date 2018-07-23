@@ -14,12 +14,6 @@ Architectures" by Wenqiang Lei et al.
 ```
 
 
-## Requirements
-
-* Cython
-* fasttext
-
-
 ## Training with default parameters
 
 ```
@@ -53,8 +47,17 @@ python3 model.py -mode iteract -model tsdf-OD
 ## Before running
 1. Install required python packages. We used pytorch 0.3.0 and python 3.6 under Linux operating system. 
 ```
-pip install -r requirements.txt
+pip3 install --user -r requirements.txt
 ```
+
+For fasttext embeddings:
+
+* Cython
+* fasttext
+
+pip3 install --user fasttext
+sudo apt-get install python3-dev
+
 2. Make directories under PROJECT_ROOT.
 ```
 mkdir vocab
