@@ -57,7 +57,9 @@ mkdir models
 mkdir sheets
 ```
 
-3. Download pretrained Glove word vectors.
+3. Download pretrained word vectors:
+
+e.g. English Glove 6B tokens, 400K vocab, uncased, 50 dimensions
 ```
 mkdir data/glove
 cd data/glove
@@ -65,9 +67,18 @@ wget http://nlp.stanford.edu/data/glove.6B.zip
 unzip glove.6B.zip
 ```
 
+or German [fasttext](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md)
+
+```
+mkdir data/fasttext
+cd data/fasttext
+wget https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.de.zip
+unzip wiki.de.zip
+```
+
 4. Download NLTK stopwords
 
-In a Python console:
+In Python console:
 ```
 >>> import nltk
 >>> nltk.download()
