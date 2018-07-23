@@ -970,9 +970,9 @@ def get_fasttext_matrix(vocab, initial_embedding_np):
     :param initial_embedding_np:
     :return: np array of [V,E]
     """
-    import fasttext
+    from pyfasttext import FastText
 
-    model = fasttext.load_model(cfg.embeddings_path)
+    model = FastText(cfg.embeddings_path)
     cnt = 0
     vec_array = initial_embedding_np
     old_avg = np.average(vec_array)
