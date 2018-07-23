@@ -971,9 +971,9 @@ def get_fasttext_matrix(vocab, initial_embedding_np):
     :return: np array of [V,E]
     """
     from pyfasttext import FastText
-
+    
+    logging.info('Loading the FastText embeddings')
     model = FastText(cfg.embeddings_path)
-    logging.info('Loaded the fasttext embeddings')
 
     cnt = 0
     vec_array = initial_embedding_np
@@ -982,7 +982,7 @@ def get_fasttext_matrix(vocab, initial_embedding_np):
     vec_array = vec_array.astype(np.float32)
     new_avg, new_std = 0, 0
 
-    for word in vocab._idx2item:
+    for word in vocab._item2idx:
         print(word)
         vec = model[word]
         vec = np.array(vec, np.float32)
