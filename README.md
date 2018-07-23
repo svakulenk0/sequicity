@@ -1,5 +1,6 @@
 # Sequicity
 
+
 Source code for the ACL 2018 paper entitled "Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence 
 Architectures" by Wenqiang Lei et al.
 
@@ -11,6 +12,12 @@ Architectures" by Wenqiang Lei et al.
   organization={ACL}
 }
 ```
+
+
+## Requirements
+
+* Cython
+* fasttext
 
 
 ## Training with default parameters
