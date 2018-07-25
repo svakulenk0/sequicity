@@ -36,7 +36,7 @@ class _Config:
         self.data = './data/CamRest676/CamRest676.json'
         self.entity = './data/CamRest676/CamRestOTGY.json'
         self.db = './data/CamRest676/CamRestDB.json'
-        self.glove_path = './data/glove/glove.6B.50d.txt'
+        self.embeddings_path = './data/glove/glove.6B.50d.txt'
         self.batch_size = 32
         self.z_length = 8
         self.degree_size = 5
@@ -111,7 +111,7 @@ class _Config:
         self.dev = './data/kvret/kvret_dev_public.json'
         self.test = './data/kvret/kvret_test_public.json'
         self.entity = './data/kvret/kvret_entities.json'
-        self.glove_path = './data/glove/glove.6B.50d.txt'
+        self.embeddings_path = './data/glove/glove.6B.50d.txt'
         self.batch_size = 32
         self.degree_size = 5
         self.z_length = 8
